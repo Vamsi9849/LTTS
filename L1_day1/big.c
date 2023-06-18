@@ -14,5 +14,4 @@ int main()
     c=big(a,b);
     printf("Biggest number is %d",c);
     return 0;
-
 }

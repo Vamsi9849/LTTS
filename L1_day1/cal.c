@@ -28,3 +28,4 @@ int main()
     }
     printf("%.2f",result);
 }
+
